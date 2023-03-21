@@ -9,6 +9,8 @@ license_text: Wikipedia
 categories:
   - Μορφές
 tags:
+  - Software
+  - Reality Immersion Technology
   - Nintendo
   - NintendoEntertainmentSystem
 --- 
