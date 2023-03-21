@@ -8,6 +8,7 @@ license_url: "https://en.wikibooks.org/wiki/6502_Assembly"
 license_text: Wikipedia
 categories:
   - Εργαλεία και Τεχνικές
+  - Τεχνολογία
 tags:
   - Software
   - Reality Immersion Technology
