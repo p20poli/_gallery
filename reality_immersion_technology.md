@@ -7,7 +7,8 @@ caption: "Το Reality Immersion Technology δημιουργήθηκε από τ
 license_url: "https://nintendo.fandom.com/wiki/Nintendo_64_Development" 
 license_text: nintendo.fandom
 categories:
-  - Μορφές
+  - Τεχνολογία
+  - Εργαλεία και Τεχνικές
 tags:
   - Software
   - Reality Immersion Technology
