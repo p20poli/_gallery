@@ -7,7 +7,7 @@ caption: "Η την γλώσσα προγραμματισμού <6502 assembly> 
 license_url: "https://en.wikibooks.org/wiki/6502_Assembly" 
 license_text: Wikipedia
 categories:
-  - Μορφές
+  - Εργαλεία και Τεχνικές
 tags:
   - Software
   - Reality Immersion Technology
